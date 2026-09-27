@@ -1,9 +1,9 @@
 @echo off
 rem ============================================
-rem  WYSYL NA GITHUB (aplikacja: zegar)
+rem  WYSYL NA GITHUB
 rem  Wrzuc pliki do tego folderu i kliknij
 rem  dwukrotnie ten plik. Wszystko zostanie
-rem  wyslane na publiczne repo zegar.
+rem  wyslane na publiczne repo tej aplikacji.
 rem ============================================
 chcp 65001 >nul 2>&1
 cd /d "%~dp0"
